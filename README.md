@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm NİHAT ÇETİNKAYA</h1>
-- 🔭 I’m currently working on **I am learning software right now**
+- 🔭 I’m currently working on **I'm learning software right now**
 
 - 🌱 I’m currently learning **HTML5 , CSS3 , Java and Javascript.**
 
