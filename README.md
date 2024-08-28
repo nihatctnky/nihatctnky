@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben NİHAT ÇETİNKAYA</h1>
+<h1 align="center">Hello 👋, I NİHAT ÇETİNKAYA</h1>
 - 🔭 I’m currently working on **I am learning software right now**
 
 - 🌱 I’m currently learning **HTML5 , CSS3 , Java and Javascript.**
