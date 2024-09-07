@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nihat19900991@gmail.com**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/nihat-%C3%A7etinkaya-845260316?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRW3FJ3wJT0yXovZk77RfiA%3D%3D </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
